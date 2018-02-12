@@ -1,0 +1,16 @@
+Gene ID	Gene Name	Phosphorylation	Apoptotic Process	Axon development	Neurogenesis	Positive Regulation of Cell Communication	Neuron Differentiation	Regulation of Protein Metabolic Process	Positive Regulation of Signal Transduction	Regulation of  Microtubule-Based Movement	Regulation of   Programmed Cell Death	Regulation of  Apoptotic Signaling Pathway	Response to TNF	Negative Regulation of Cell Communication	Regulation of Synapse Organization
+ESR1	Estrogen receptor 1	1	1	0	0	1	0	1	1	0	1	0	0	1	0
+PRKCQ	Protein kinase C, theta	1	1	1	1	1	1	1	1	0	1	0	0	1	0
+PPP2R5E	Protein phosphatase 2, regulatory subunit B', epsilon isoform	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+DYRK1A	Dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	1	0	0	0	0	0	1	0	0	0	0	0	1	0
+NEFH	Neurofilament, heavy polypeptide	0	0	1	1	0	1	0	0	1	0	0	0	0	0
+RELN	Reelin	1	0	1	1	1	1	1	1	0	0	0	0	0	1
+PEA15	Phosphoprotein enriched in astrocytes 15	1	1	0	0	1	0	1	1	0	1	1	0	1	0
+PIDD1	p53-induced death domain protein 1	0	1	0	0	1	0	1	1	0	1	1	0	0	0
+CAMK1	Calcium/calmodulin-dependent protein kinase I	1	0	0	1	0	1	1	0	0	0	0	0	0	1
+DAPK3	Death-associated protein kinase 3	1	1	0	1	1	1	1	1	0	1	1	0	0	0
+HSPA1A	Heat shock 70 kDa protein 1A	0	0	0	0	1	0	1	1	0	1	1	1	1	0
+SIRT1	Sirtuin 1	1	1	0	0	1	0	1	1	0	1	1	1	1	0
+ADNP	Activity-dependent neuroprotector homeobox	1	1	1	1	0	1	1	0	0	1	0	0	1	1
+MADD	MAP-kinase activating death domain	1	1	0	0	1	0	1	1	0	1	1	1	0	0
+MAPT	Microtubule Associated Protein Tau	0	1	1	1	0	1	0	0	1	0	0	0	0	0
